@@ -21,4 +21,4 @@ A collection/cheat sheet of useful ABAP programs and references for SAP CRM
   * Dropdown in CRM UI
  
 ## Credits
-Thanks to my old boss Tom Byrne for his stuardship when I was a junior developer. These code snippets where originally his.
+Thanks to my old boss Tom Byrne for his stewardship when I was a junior developer. These code snippets where originally his.
